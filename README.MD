@@ -103,3 +103,7 @@ npm run dev
 
 ```
 
+POSTMAN DOCUMENTATION:
+
+https://api.postman.com/collections/9715003-1d0bd3c1-36fb-4025-b380-60abc910b4f6?access_key=PMAT-01HMRT7Y80BFZ1E8DY5DF296E3
+
