@@ -71,7 +71,7 @@ This is a REST API built using Node.js and Express.js for eCommerce. It provides
 
 
 ```
-git clone https://github.com/aka952/EcommerceBE
+git clone https://github.com/aka952/EcommerceBE.git
 ```
 
 2. Navigate to the project directory.
