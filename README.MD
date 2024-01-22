@@ -21,9 +21,6 @@ This is a REST API built using Node.js and Express.js for eCommerce. It provides
 - Mongoose
 - JWT
 
-**Image Upload:** 
-- Cloudinary API
-
 **Data Storage:** 
 - MongoDB
 
@@ -74,7 +71,7 @@ This is a REST API built using Node.js and Express.js for eCommerce. It provides
 
 
 ```
-git clone https://github.com/themodernmonk7/E-commerce-API.git
+git clone https://github.com/aka952/EcommerceBE
 ```
 
 2. Navigate to the project directory.
